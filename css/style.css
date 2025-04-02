@@ -1,0 +1,95 @@
+body {
+    font-family: "Roboto", 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #434455;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.logo {
+    text-transform: uppercase;
+    font-family: "Relaway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    color: #2e2f42;
+}
+
+.Web {
+    color: #3d5ae5;
+}
+
+.navigation-link {
+    color: #2e2f42;
+}
+
+.navigation-link:hover,
+.navigation-link:focus {
+    color: #3d5ae5;
+}
+
+.navigation-link:active {
+    color: #3d5ae5;
+    text-decoration: underline;
+}
+
+address a:hover,
+address a:focus {
+    color: #3d5ae5;
+}
+
+
+.banner {
+    background-color: #2e2f42;
+}
+
+.page-tittle {
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.banner-button {
+    color: #ffffff;
+    background-color: #3d5ae5;
+}
+
+.banner-button:hover,
+.banner-button:focus {
+    background-color: #404bbf;
+}
+
+.section-team {
+    background-color: #f4f4fd;
+}
+
+footer {
+    color: #f4f4fd;
+    background-color: #2e2f42;
+}
+
+footer .logo {
+    color: #f4f4fd;
+}
