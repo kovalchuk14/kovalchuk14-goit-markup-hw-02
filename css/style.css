@@ -3,7 +3,7 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
     background-color: #ffffff;
 }
@@ -115,4 +115,29 @@ footer .logo {
     font-size: 36px;
     line-height: 1.11;
     text-transform: capitalize;
+}
+
+.banner .page-tittle {
+    line-height: 1.07;
+}
+
+.benefits .section-logo {
+    display: none;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+
+.team-list {
+    background-color: #FFFFFF;
+}
+
+.team-info {
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-description {
+    font-size: 16px;
+    letter-spacing: 0.02em;
 }
