@@ -17,8 +17,10 @@ ul {
     list-style-type: none;
 }
 
-h2 {
+.section-logo {
     text-align: center;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 h3 {
@@ -78,7 +80,12 @@ h3 {
 
 .banner-button {
     color: #ffffff;
-    background-color: #3d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 .banner-button:hover,
