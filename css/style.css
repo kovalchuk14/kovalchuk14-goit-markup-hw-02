@@ -63,6 +63,11 @@ h3 {
     font-style: normal;
 }
 
+
+.navigation-address a {
+    letter-spacing: 0.02em
+}
+
 .navigation-address a:hover,
 .navigation-address a:focus {
     color: #404bbf;
@@ -79,7 +84,7 @@ h3 {
     text-align: center;
     letter-spacing: 0.02em;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     font-weight: 700;
 }
 
@@ -123,21 +128,56 @@ footer .logo {
 
 .benefits .section-logo {
     display: none;
-    letter-spacing: 0.02em;
+
     color: #2e2f42;
 
 }
 
-.team-list {
+.team-card {
     background-color: #FFFFFF;
 }
 
 .team-info {
-    letter-spacing: 0.02em;
+
     color: #2e2f42;
+    letter-spacing: 0.02em;
+
 }
 
 .team-description {
     font-size: 16px;
+    letter-spacing: 0.02em;
+}
+
+.portfolio .section-logo {
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+}
+
+.portfolio-info {
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-description {
+    letter-spacing: 0.02em;
+}
+
+.page-footer .logo {
+    color: #4d5ae5;
+}
+
+.page-footer .Studio {
+    color: #f4f4fd;
+}
+
+.benefits-title {
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+
+.benefits-info {
     letter-spacing: 0.02em;
 }
