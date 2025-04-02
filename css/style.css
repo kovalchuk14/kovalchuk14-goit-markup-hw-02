@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -28,25 +28,26 @@ h3 {
 
 .logo {
     text-transform: uppercase;
-    font-family: "Relaway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 3%;
-    color: #2e2f42;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
 }
 
-.Web {
-    color: #3d5ae5;
+.logo .Studio {
+    color: #2e2f42;
 }
 
 .navigation-link {
     color: #2e2f42;
+    font-weight: 500;
 }
 
 .navigation-link:hover,
 .navigation-link:focus {
-    color: #3d5ae5;
+    color: #404bbf;
 }
 
 .navigation-link:active {
@@ -54,8 +55,12 @@ h3 {
     text-decoration: underline;
 }
 
-address a:hover,
-address a:focus {
+.navigation-address {
+    font-style: normal;
+}
+
+.navigation-address a:hover,
+.navigation-address a:focus {
     color: #3d5ae5;
 }
 
