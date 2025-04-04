@@ -80,7 +80,6 @@ h3 {
 
 .page-tittle {
     color: #ffffff;
-    line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     font-size: 56px;
@@ -127,7 +126,7 @@ footer .logo {
 }
 
 .benefits .section-logo {
-    display: none;
+
 
     color: #2e2f42;
 
