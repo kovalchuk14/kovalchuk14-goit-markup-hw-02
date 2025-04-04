@@ -131,12 +131,6 @@ footer .logo {
     background-color: #FFFFFF;
 }
 
-.team-info {
-
-    color: #2e2f42;
-    letter-spacing: 0.02em;
-
-}
 
 .team-description {
     font-size: 16px;
@@ -149,10 +143,6 @@ footer .logo {
     text-transform: capitalize;
 }
 
-.portfolio-info {
-    color: #2e2f42;
-    letter-spacing: 0.02em;
-}
 
 
 .page-footer .logo {
@@ -169,13 +159,11 @@ footer .logo {
 }
 
 
-.benefits-info {
-    letter-spacing: 0.02em;
-}
 
 .portfolio-info .team-info .benefits-info {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
